@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="title">conversor de unidades</string>
+    <string name="hintCm">insetar valor en cm</string>
+    <string name="btnIn">metro</string>
+    <string name="btnFt">pies</string>
+    <string name="btnYd">yarda</string>
+    <string name="tvRes">resultado</string>
+</resources>

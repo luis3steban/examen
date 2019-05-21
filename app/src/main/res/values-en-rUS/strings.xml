@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UnitConverter</string>
+    <string name="title">unit converse</string>
+    <string name="hintCm">insert value in cm</string>
+    <string name="btnIn">ish</string>
+    <string name="btnFt">foot</string>
+    <string name="btnYd">yards</string>
+    <string name="tvRes">results</string>
+</resources>
